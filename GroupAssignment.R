@@ -1,11 +1,5 @@
 # WST 212 - Project
 
-# Student number and initials: 21487822 , P.P
-# Student number and initials: 18128310 , R.M
-# Student number and initials: 22595342 , R.G
-# Student number and initials: 21563731 , N.M
-# Student number and initials: 18222022 , T.M
-
 #-------------------------------------------------------------------
 # DO NOT make any changes to the following code:
 
